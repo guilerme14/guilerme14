@@ -1,4 +1,4 @@
-### Olá eu sou Guilerme Cardoso 👋
+### Olá eu sou Guilherme Cardoso 👋
 
 
 - 🔭 Atualmente trabalho como Jovem Aprendiz Administrativo
