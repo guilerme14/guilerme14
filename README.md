@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00CED1&size=35&center=true&vCenter=true&width=1000&lines=Ola,+meu+Nome+e+Guilherme+Cardoso;Tenho+23+anos+de+idade;Eu+almejo+ser+um+Programador+Full+Stack;Seja+Bem+vindo!+:%29)](https://git.io/typing-svg)
 
 - 🔭 Atualmente trabalho como Jovem Aprendiz Administrativo
-- 🌱 Atualmente aprendendo HTML5/CSS3
+- 🌱 Atualmente aprendendo HTML5/CSS3/javascript/python
 - 🤔 Estou preocurando por ajuda em Dicas para estudo
 <div align="center">
   <a href="https://github.com/guilerme14">
